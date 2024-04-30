@@ -25,6 +25,3 @@ To run this project, you need the following dependencies:
 - Seaborn
 - [Add any other dependencies if necessary]
 
-You can install these dependencies using pip:
-
-```bash
