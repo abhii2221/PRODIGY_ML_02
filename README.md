@@ -1,6 +1,4 @@
 # mall-customer-segmentation
-# Mall Customer Segmentation
-
 This repository contains a Python project for performing customer segmentation analysis on mall data. The goal is to segment customers based on their purchasing behavior and demographic information to better understand their preferences and tailor marketing strategies accordingly.
 
 ## Dataset
